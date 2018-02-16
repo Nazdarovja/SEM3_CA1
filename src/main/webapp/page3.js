@@ -46,7 +46,6 @@ document.getElementById("addgirl").addEventListener("click", function () {
     let name = document.getElementById("newgirl").value;
     girls.push(name);
     
-    
     let li = document.createElement("li");
     li.innerHTML = name;
     
