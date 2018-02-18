@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-02-2018, 09:49:02
+    Author     : Orchi
+*/
+
+h2 {color: steelblue;}
+h3 {color: steelblue;
+    margin-top: 0px;
+    margin-bottom: 1em;}
+li {
+    list-style: none;
+}
+.container {
+    font-family:sans-serif; 
+    margin:auto;width:60%;}
+.lists {
+    border: 1px solid; 
+    border-color:
+    steelblue;
+    border-radius: 3px; 
+    float:left; width: 12em;
+    margin-right:2px;} 
+.lists h4 {
+    text-align: center; 
+    color: steelblue} 
+.lists div {
+    padding: 3px;text-align: center;} .inputs {
+    margin-bottom:12px;}
+
+
